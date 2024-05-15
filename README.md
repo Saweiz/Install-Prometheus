@@ -4,7 +4,7 @@
   wget https://github.com/prometheus/prometheus/releases/download/v2.40.1/prometheus-2.40.1.linux-amd64.tar.gz
   ```
 
-  #### etract tar file 
+  #### extract tar file 
   ```bash
   tar xvf prometheus-2.40.1.linux-amd64.tar.gz
   ```
